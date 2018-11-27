@@ -21,27 +21,27 @@
 
 ### Linear Regression using Gradient Descent
 * Gradient Descent
-  - [01.gradient.descent.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/01.gradient.descent.ipynb)
+  - [01.gradient.descent.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/01.gradient.descent.ipynb)
 * Stochastic Gradient Descent
-  - [02.stochastic.gradient.descent.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/02.stochastic.gradient.descent.ipynb)
+  - [02.stochastic.gradient.descent.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/02.stochastic.gradient.descent.ipynb)
 * Coordinate Gradient Descent
-  - [03.coordinate.gradient.descent.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/03.coordinate.gradient.descent.ipynb)
+  - [03.coordinate.gradient.descent.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/03.coordinate.gradient.descent.ipynb)
 
 ### Optimization of Beale Function using Various Gradient Descent Algorithms
 * Gradient Descent
-  - [04.1.sgd.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/04.1.sgd.ipynb)
-  - [04.2.sgd.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/04.2.sgd.ipynb)
+  - [04.1.sgd.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/04.1.sgd.ipynb)
+  - [04.2.sgd.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/04.2.sgd.ipynb)
 * Momentum
-  - [05.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/05.momentum.ipynb)
+  - [05.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/05.momentum.ipynb)
 * Nesterov Momentum
-  - [06.1.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/06.1.Nesterov.momentum.ipynb)
-  - [06.2.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/06.2.Nesterov.momentum.ipynb)
+  - [06.1.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/06.1.Nesterov.momentum.ipynb)
+  - [06.2.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/06.2.Nesterov.momentum.ipynb)
 * Adagrad
-  - [07.adagrad.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/07.adagrad.ipynb)
+  - [07.adagrad.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/07.adagrad.ipynb)
 * RMSprop
-  - [08.RMSprop.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/08.RMSprop.ipynb)
+  - [08.RMSprop.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/08.RMSprop.ipynb)
 * Adam
-  - [09.adam.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizer.numpy/tree/master/09.adam.ipynb)
+  - [09.adam.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/09.adam.ipynb)
 
 
 
