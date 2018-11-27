@@ -1,12 +1,11 @@
 # Various Optimizers based on Gradient Descent
+* Final update: 2018. 11. 28.
+* All right reserved @ Il Gu Yi 2018
 
+## Educational Purpose
 * Implementation various optimization algorithms based on gradient descent
 * Only use **numpy**, don't use deep learning framework like [TensorFlow](https://www.tensorflow.org)
 * Low level coding in each algorithm
-
-
-* Final update: 2018. 11. 28.
-* All right reserved @ Il Gu Yi 2018
 
 
 ## Getting Started
