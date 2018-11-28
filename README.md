@@ -12,7 +12,7 @@
 
 ### Prerequisites
 * Python 3.6
-* `numpy`, `matplotlib`
+  * `numpy`, `matplotlib`
 * Jupyter notebook
 * OS X and Linux (Not validated on Windows but probably it might work)
 
