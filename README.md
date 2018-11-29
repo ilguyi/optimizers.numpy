@@ -1,5 +1,5 @@
 # Various Optimizers based on Gradient Descent
-* Final update: 2018. 11. 28.
+* Final update: 2018. 11. 29.
 * All right reserved @ Il Gu Yi 2018
 
 ## Educational Purpose
@@ -34,14 +34,14 @@
 * Momentum
   - [05.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/05.momentum.ipynb)
 * Nesterov Momentum
-  - [06.1.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/06.1.Nesterov.momentum.ipynb)
-  - [06.2.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/06.2.Nesterov.momentum.ipynb)
+  - [06.1.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/06.1.Nesterov.momentum.ipynb)
+  - [06.2.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/06.2.Nesterov.momentum.ipynb)
 * Adagrad
-  - [07.adagrad.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/07.adagrad.ipynb)
+  - [07.adagrad.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/07.adagrad.ipynb)
 * RMSprop
-  - [08.RMSprop.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/08.RMSprop.ipynb)
+  - [08.RMSprop.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/08.RMSprop.ipynb)
 * Adam
-  - [09.adam.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/tree/master/09.adam.ipynb)
+  - [09.adam.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/09.adam.ipynb)
 
 
 
