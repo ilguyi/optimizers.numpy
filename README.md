@@ -42,7 +42,7 @@
   - [08.RMSprop.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/08.RMSprop.ipynb)
 * Adam
   - [09.adam.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/09.adam.ipynb)
-* optimizer `tf version`
+* optimizer implemented by TensorFlow
   - [optimizer.tf.version.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/optimizer.tf.version.ipynb)
 
 
