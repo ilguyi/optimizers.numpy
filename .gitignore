@@ -3,3 +3,6 @@
 
 # ipynb_checkpoints
 .ipynb_checkpoints
+
+# result files
+allplot.png
