@@ -1,5 +1,5 @@
 # Various Optimizers based on Gradient Descent
-* Final update: 2018. 11. 29.
+* Final update: 2018. 11. 30.
 * All right reserved @ Il Gu Yi 2018
 
 ## Educational Purpose
@@ -44,7 +44,12 @@
   - [09.adam.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/09.adam.ipynb)
 * optimizer implemented by TensorFlow
   - [optimizer.tf.version.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/optimizer.tf.version.ipynb)
+* optimizer implemented by TensorFlow for plot
+  - [optimizer.tf.all.opt.plot.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/optimizer.tf.all.opt.plot.ipynb)
 
+
+### Results
+<img width="30%" alt="all_test_optimizers" src=https://github.com/ilguyi/optimizers.numpy/files/2632885/allplot.pdf">
 
 
 ## Author
