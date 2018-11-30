@@ -49,7 +49,7 @@
 
 
 ### Results
-<img width="30%" alt="all_test_optimizers" src=https://github.com/ilguyi/optimizers.numpy/files/2632885/allplot.pdf">
+<img width="30%" alt="all_test_optimizers" src="https://github.com/ilguyi/optimizers.numpy/files/2632885/allplot.pdf">
 
 
 ## Author
