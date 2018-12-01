@@ -50,9 +50,8 @@
 
 ### Results
 <div align="center">
-<img width="50%" alt="all_test_optimizers" src="https://user-images.githubusercontent.com/11681225/49284813-08f2a380-f4d9-11e8-9216-f96335da67a8.png">
-<img width="50%" alt="all_test_optimizers.gif" src="https://user-images.githubusercontent.com/11681225/49325458-fc785480-f585-11e8-8d2a-9012d6024c6e.gif">
-
+<img height="250px" alt="all_test_optimizers" src="https://user-images.githubusercontent.com/11681225/49284813-08f2a380-f4d9-11e8-9216-f96335da67a8.png">
+<img height="250px" alt="all_test_optimizers.gif" src="https://user-images.githubusercontent.com/11681225/49325458-fc785480-f585-11e8-8d2a-9012d6024c6e.gif">
 </div>
 
 
