@@ -36,11 +36,11 @@
 * Nesterov Momentum
   - [06.1.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/06.1.Nesterov.momentum.ipynb)
   - [06.2.Nesterov.momentum.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/06.2.Nesterov.momentum.ipynb)
-* Adagrad [paper](http://jmlr.org/papers/v12/duchi11a.html)
+* Adagrad [(paper link)](http://jmlr.org/papers/v12/duchi11a.html)
   - [07.adagrad.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/07.adagrad.ipynb)
-* RMSprop [Tieleman and Hinton's Lecture slide, 2012](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+* RMSprop [(Tieleman and Hinton's Lecture slide, 2012)](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
   - [08.RMSprop.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/08.RMSprop.ipynb)
-* Adam optimizer [arXiv:1412.6980](https://arxiv.org/abs/1412.6980)
+* Adam optimizer [(arXiv:1412.6980)](https://arxiv.org/abs/1412.6980)
   - [09.adam.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/09.adam.ipynb)
 * optimizer implemented by TensorFlow
   - [optimizer.tf.version.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/optimizer.tf.version.ipynb)
@@ -53,12 +53,10 @@
 
 
 ## References
-* S. Ruder, An overview of gradient descent optimization algorithms [link](https://arxiv.org/abs/1609.04747)
-* S. Ruder's blog: [link](http://ruder.io/optimizing-gradient-descent/) (the same content as above)
-* Louis Tiao's blog: for 3D plot and contour plot [link](http://louistiao.me/notes/visualizing-and-animating-optimization-algorithms-with-matplotlib/)
+* S. Ruder, An overview of gradient descent optimization algorithms [(arXiv:1609.04747)](https://arxiv.org/abs/1609.04747)
+* S. Ruder's blog: [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) (the same content as above)
+* Louis Tiao's blog: [Visualizing and Animating Optimization Algorithms with Matplotlib](http://louistiao.me/notes/visualizing-and-animating-optimization-algorithms-with-matplotlib/)
   * Some codes for 3D plot and contour plot are borrowed from this blog
-
-
 
 
 
