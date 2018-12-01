@@ -49,7 +49,9 @@
 
 
 ### Results
-<img width="80%" alt="all_test_optimizers" src="https://user-images.githubusercontent.com/11681225/49284813-08f2a380-f4d9-11e8-9216-f96335da67a8.png">
+<img width="50%" alt="all_test_optimizers" src="https://user-images.githubusercontent.com/11681225/49284813-08f2a380-f4d9-11e8-9216-f96335da67a8.png">
+<img width="50%" alt="all_test_optimizers.gif" src="https://user-images.githubusercontent.com/11681225/49325166-25e2b180-f581-11e8-9a84-e25a6f280eee.gif">
+
 
 
 ## References
