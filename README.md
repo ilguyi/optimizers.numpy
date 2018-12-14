@@ -55,8 +55,8 @@
 
 #### Optimization of Linear Regression using Various Gradient Descent Algorithms
 <div align="center">
-<img width="350px" alt="regression_all" src="https://user-images.githubusercontent.com/11681225/50016565-e4d0af80-000c-11e9-8d8d-fe75f8f0bc38.jpg">
-<img width="350px" alt="regression_all.gif" src="https://user-images.githubusercontent.com/11681225/50016682-39742a80-000d-11e9-81da-ab0406610b9c.gif">
+<img width="400px" alt="regression_all" src="https://user-images.githubusercontent.com/11681225/50016565-e4d0af80-000c-11e9-8d8d-fe75f8f0bc38.jpg">
+<img width="400px" alt="regression_all.gif" src="https://user-images.githubusercontent.com/11681225/50016682-39742a80-000d-11e9-81da-ab0406610b9c.gif">
 </div>
 
 #### Optimization of Beale Function using Various Gradient Descent Algorithms
