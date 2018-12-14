@@ -55,14 +55,14 @@
 
 #### Optimization of Linear Regression using Various Gradient Descent Algorithms
 <div align="center">
-<img width="400px" alt="regression_all" src="https://user-images.githubusercontent.com/11681225/50016565-e4d0af80-000c-11e9-8d8d-fe75f8f0bc38.jpg">
-<img width="400px" alt="regression_all.gif" src="https://user-images.githubusercontent.com/11681225/50016682-39742a80-000d-11e9-81da-ab0406610b9c.gif">
+<img width="500px" alt="regression_all" src="https://user-images.githubusercontent.com/11681225/50016565-e4d0af80-000c-11e9-8d8d-fe75f8f0bc38.jpg">
+<img width="500px" alt="regression_all.gif" src="https://user-images.githubusercontent.com/11681225/50016682-39742a80-000d-11e9-81da-ab0406610b9c.gif">
 </div>
 
 #### Optimization of Beale Function using Various Gradient Descent Algorithms
 <div align="center">
-<img height="350px" alt="all_test_optimizers" src="https://user-images.githubusercontent.com/11681225/49284813-08f2a380-f4d9-11e8-9216-f96335da67a8.png">
-<img height="350px" alt="all_test_optimizers.gif" src="https://user-images.githubusercontent.com/11681225/49325458-fc785480-f585-11e8-8d2a-9012d6024c6e.gif">
+<img width="500px" alt="all_test_optimizers" src="https://user-images.githubusercontent.com/11681225/49284813-08f2a380-f4d9-11e8-9216-f96335da67a8.png">
+<img width="500px" alt="all_test_optimizers.gif" src="https://user-images.githubusercontent.com/11681225/49325458-fc785480-f585-11e8-8d2a-9012d6024c6e.gif">
 </div>
 
 
