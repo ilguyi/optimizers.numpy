@@ -1,5 +1,5 @@
 # Various Optimizers based on Gradient Descent
-* Final update: 2018. 11. 30.
+* Final update: 2018. 12. 15.
 * All right reserved @ Il Gu Yi 2018
 
 ## Educational Purpose
@@ -26,6 +26,9 @@
   - [02.stochastic.gradient.descent.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/02.stochastic.gradient.descent.ipynb)
 * Coordinate Gradient Descent
   - [03.coordinate.gradient.descent.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/03.coordinate.gradient.descent.ipynb)
+* Linear Regression with 5 optimizers
+  - [regression.all.opt.ipynb](https://nbviewer.jupyter.org/github/ilguyi/optimizers.numpy/blob/master/regression.all.opt.ipynb)
+
 
 ### Optimization of Beale Function using Various Gradient Descent Algorithms
 * Gradient Descent
@@ -49,6 +52,14 @@
 
 
 ### Results
+
+#### Optimization of Linear Regression using Various Gradient Descent Algorithms
+<div align="center">
+<img height="350px" alt="regression_all" src="https://user-images.githubusercontent.com/11681225/50016565-e4d0af80-000c-11e9-8d8d-fe75f8f0bc38.jpg">
+<img height="350px" alt="regression_all.gif" src="https://user-images.githubusercontent.com/11681225/50016682-39742a80-000d-11e9-81da-ab0406610b9c.gif">
+</div>
+
+#### Optimization of Beale Function using Various Gradient Descent Algorithms
 <div align="center">
 <img height="350px" alt="all_test_optimizers" src="https://user-images.githubusercontent.com/11681225/49284813-08f2a380-f4d9-11e8-9216-f96335da67a8.png">
 <img height="350px" alt="all_test_optimizers.gif" src="https://user-images.githubusercontent.com/11681225/49325458-fc785480-f585-11e8-8d2a-9012d6024c6e.gif">

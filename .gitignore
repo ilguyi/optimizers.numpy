@@ -5,4 +5,7 @@
 .ipynb_checkpoints
 
 # result files
-allplot.png
+*.png
+*.jpg
+*.mp4
+*.gif
